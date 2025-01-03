@@ -1,4 +1,4 @@
 paramiko==2.7.2
 netmiko==3.4.0
-cryptography==3.4.7
+cryptography==44.0.0
 mysql-connector-python==9.1.0
